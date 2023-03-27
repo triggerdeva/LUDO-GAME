@@ -4,3 +4,12 @@
 
 
 ![ludo](https://github.com/triggerdeva/ludo-js/blob/master/ludo/ludo-bg.jpg?raw=true)
+
+Based on using the Structure HTML, CSS AND JAVASCRIPT
+Project Concerned By :- Gaurav Sharma
+Team Name- "GAMMAA"
+Team Members :
+1.Devendra Meshram
+2.Akash Kumar
+3.Prajakta Dhananjay Khaire
+4.Nadeem Ashraf
