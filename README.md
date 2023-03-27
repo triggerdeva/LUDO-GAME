@@ -5,4 +5,4 @@
 #### Demo: https://ludo-js.web.app/
 #### Tutorial: https://youtu.be/2dgYLR2hOTk
 
-![ludo](https://github.com/sohail-js/ludo-js/blob/master/ludo/ludo-bg.jpg?raw=true)
+![ludo]([https://github.com/triggerdeva/LUDO-GAME])
