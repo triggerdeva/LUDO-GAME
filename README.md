@@ -10,8 +10,7 @@ Ludo game in Vanilla #Javascript  completely from scratch without using any fram
 Based on using the Structure HTML, CSS AND JAVASCRIPT
 Project Concerned By :- Gaurav Sharma
 Team Name- "GAMMAA"
-Team Members :
+Active Team Members :
 1.Devendra Meshram
-2.Akash Kumar
-3.Prajakta Dhananjay Khaire
-4.Nadeem Ashraf
+2.Prajakta Dhananjay Khaire
+3.Nadeem Ashraf
