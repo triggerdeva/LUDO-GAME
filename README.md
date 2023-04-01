@@ -5,6 +5,8 @@
 
 ![ludo](https://github.com/triggerdeva/ludo-js/blob/master/ludo/ludo-bg.jpg?raw=true)
 
+Ludo game in Vanilla #Javascript  completely from scratch without using any frameworks or libraries like Angular or React. A lot of people jump into frameworks too early when learning web development and miss out on understanding the core javascript parts.
+
 Based on using the Structure HTML, CSS AND JAVASCRIPT
 Project Concerned By :- Gaurav Sharma
 Team Name- "GAMMAA"
